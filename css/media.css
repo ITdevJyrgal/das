@@ -1,0 +1,12 @@
+@media (max-width: 1200px) {
+  .container {
+    width: 90%;
+    border: 1px solid black;
+  }
+
+  * {
+    margin: -2px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
